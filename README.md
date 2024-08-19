@@ -1,5 +1,5 @@
 # About Me:
-21 Years Old<br>Studies at CTU Training Solution<br>Software Develoment, Data Science Student.
+21 Years Old<br>Studies at CTU Training Solution<br>Software Develoment.<br>DevOps.
 
 
 ## 🌐 Socials:
