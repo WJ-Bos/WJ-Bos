@@ -2,7 +2,6 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WJ-Bos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="WJ-Bos's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WJ-Bos&theme=tokyonight&hide_border=true" alt="WJ-Bos's Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJ-Bos&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="WJ-Bos's Top Languages" height="150" />
 </div>
