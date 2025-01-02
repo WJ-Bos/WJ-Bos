@@ -9,9 +9,9 @@
 
 ###
 
-<div  style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Icons Section -->
-  <div>
+  <div style="text-align: left;">
     <p>I am a passionate developer who works with a variety of technologies to build software solutions. Below is a list of technologies I work with:</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
@@ -28,6 +28,7 @@
   <!-- Image Section -->
   <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="150" alt="Decorative GIF" />
 </div>
+
 
 ###
 
