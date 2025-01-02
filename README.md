@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
+<div  style="display: flex; align-items: center; gap: 20px;">
   <!-- Icons Section -->
   <div>
     <p>I am a passionate developer who works with a variety of technologies to build software solutions. Below is a list of technologies I work with:</p>
