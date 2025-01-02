@@ -9,7 +9,8 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <!-- Icons Section -->
   <div>
     <p>I am a passionate developer who works with a variety of technologies to build software solutions. Below is a list of technologies I work with:</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -23,7 +24,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   </div>
-  <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="150" style="margin-left: 20px;" alt="Decorative GIF" />
+
+  <!-- Image Section -->
+  <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="150" alt="Decorative GIF" />
 </div>
 
 ###
