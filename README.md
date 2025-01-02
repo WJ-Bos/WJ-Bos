@@ -9,7 +9,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
   <!-- Icons Section -->
   <div style="text-align: left;">
     <p>I am a passionate developer who works with a variety of technologies to build software solutions. Below is a list of technologies I work with:</p>
@@ -26,8 +26,8 @@
   </div>
 
   <!-- Image Section -->
-  <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="150" alt="Decorative GIF" />
-</div>
+  <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="150" alt="Decorative GIF" align="right" />
+
 
 
 ###
