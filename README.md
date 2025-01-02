@@ -10,14 +10,14 @@
 ###
 
 
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px;">
   <!-- Title Section -->
-  <h2 style="text-align: center;">Tech</h2>
+  <h2 style="text-align: center; margin-bottom: 20px;">Tech</h2>
 
   <!-- Content Section -->
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 20px;">
     <!-- Icons Section -->
-    <div style="text-align: left; padding-left: 20px;">
+    <div style="text-align: left; padding-left: 20px; flex: 1;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -29,14 +29,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
     </div>
-
-    <div style="padding-right: 20px;">
-      <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="200" alt="Decorative GIF" />
+    <div style="padding-right: 20px; flex: 1; text-align: right;">
+       <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif" height="200" alt="Decorative GIF" style="border-radius: 10px;" />
     </div>
   </div>
 </div>
-
-
 
 
 ###
