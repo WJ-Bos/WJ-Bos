@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm WJ Boshoff
 
-### Software Engineer | Fintech Specialist | Problem Solver
+### Full-Stack Software Engineer | Cloud Enthusiast | Problem Solver
 
 <p>
   <a href="mailto:wjbosdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -18,13 +18,13 @@
 
 ## 🚀 About Me
 
-I'm a full-stack software engineer with a passion for building robust, scalable systems in the fintech space. I thrive on solving complex problems, optimizing performance, and creating elegant solutions that make a real impact.
+I'm a versatile full-stack software engineer who builds robust, scalable systems across various domains. I thrive on solving complex problems, optimizing performance, and creating elegant solutions that make a real impact.
 
-- 🏦 **Current Focus:** Building distributed microservices architecture for financial systems
-- 🔭 **Working On:** Payment processing, mandate management, and asset tracking platforms
+- 💻 **Current Focus:** Building distributed microservices architecture with modern cloud-native technologies
+- 🔭 **Working On:** Enterprise applications, API integrations, and scalable backend systems
 - 🌱 **Learning:** Advanced distributed tracing with OpenTelemetry, system design, and performance optimization
 - 💪 **Outside of Code:** Powerlifting enthusiast with a methodical approach to training and progression
-- 🎯 **Goal:** Contributing to innovative fintech solutions that drive financial inclusion
+- 🎯 **Goal:** Building impactful software solutions that solve real-world problems at scale
 
 ---
 
@@ -64,17 +64,17 @@ I'm a full-stack software engineer with a passion for building robust, scalable 
 
 ## 💼 What I'm Building
 
-### **Fintech Microservices**
-- Payment processing systems with third-party integrations (RealPay, Sage)
-- Mandate management and asset tracking platforms
-- Complex financial calculations including VAT processing
-- Distributed tracing implementation across microservices architecture
+### **Enterprise Systems & Architecture**
+- Microservices architecture with distributed tracing and observability
+- RESTful APIs with complex business logic and third-party integrations
+- Modern full-stack applications with responsive, user-friendly interfaces
+- Cloud-native solutions leveraging AWS infrastructure
 
-### **Key Projects**
-- 🏦 **Bank Microservices** - Comprehensive banking system with microservices architecture
-- 🛒 **E-commerce Platform (Go)** - High-performance e-commerce backend
-- 🔐 **Authentication System** - Secure auth implementation with Spring Boot
-- 🎮 **Bevy Ball Game** - Game development exploration with Rust
+### **Featured Projects**
+- 🏦 **Bank Microservices** - Comprehensive microservices architecture demonstrating enterprise patterns
+- 🔐 **Authentication System** - Secure authentication implementation with Spring Boot
+- 🎮 **Bevy Ball Game** - Game development exploration using Rust and ECS architecture
+- 🧠 **DSA Practice** - Continuous practice and implementation of data structures and algorithms
 
 ---
 
@@ -83,10 +83,6 @@ I'm a full-stack software engineer with a passion for building robust, scalable 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WJ-Bos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WJ-Bos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WJ-Bos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
 </div>
 
@@ -98,16 +94,17 @@ I'm a full-stack software engineer with a passion for building robust, scalable 
 public class CurrentlyWorking {
     private List<String> focus = Arrays.asList(
         "Distributed tracing with OpenTelemetry & SignOz",
-        "Complex JPA specifications for multi-entity queries",
-        "Angular Material Design components",
-        "AWS cloud architecture optimization",
-        "Database performance tuning (PostgreSQL, Oracle, ClickHouse)"
+        "Building scalable microservices architectures",
+        "Modern frontend development with Angular & React",
+        "AWS cloud infrastructure and deployment pipelines",
+        "Database optimization across PostgreSQL, Oracle, and ClickHouse"
     );
     
     private Map<String, String> learning = Map.of(
-        "Mathematics", "Self-teaching foundational concepts",
-        "Algorithms", "Preparing for technical interviews at FAANG",
-        "System Design", "Scalable distributed systems"
+        "System Design", "Scalable distributed systems and architecture patterns",
+        "Algorithms & DS", "Preparing for technical interviews at top tech companies",
+        "Mathematics", "Building strong foundational knowledge",
+        "Cloud Native", "Kubernetes, containerization, and modern DevOps practices"
     );
 }
 ```
@@ -118,13 +115,13 @@ public class CurrentlyWorking {
 
 > "I wanna change the world" - Juice WRLD 🧃
 
-I believe in writing clean, maintainable code that solves real problems. Whether it's optimizing database queries, implementing distributed tracing, or building user-friendly interfaces, I approach each challenge with curiosity and determination.
+I believe in writing clean, maintainable code that solves real problems. Whether it's architecting distributed systems, optimizing database queries, building intuitive user interfaces, or exploring new technologies, I approach each challenge with curiosity, determination, and a commitment to continuous improvement.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on interesting projects or discussing fintech, software architecture, and technology. Feel free to reach out!
+I'm always interested in collaborating on interesting projects or discussing software architecture, technology, and innovative solutions. Feel free to reach out!
 
 - 📧 **Email:** [wjbosdev@gmail.com](mailto:wjbosdev@gmail.com)
 - 💼 **LinkedIn:** [wj-boshoff-68123b317](https://www.linkedin.com/in/wj-boshoff-68123b317)
